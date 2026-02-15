@@ -28,3 +28,4 @@ This project is designed to help Python beginners practice:
 - Python 3.10 or higher  
 - No external libraries required   
 - Apply proper code styling
+- Apply proper code typing
